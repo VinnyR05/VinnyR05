@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Vinayak
 - 👀 I’m interested in learning computer science and robotics!
 - 🌱 I’m currently learning Java, but I'm continuing to learn HTML and CSS.
-- 📫 You can reach me on Discord at @vinnydapooh#8816
+- 📫 You can reach me on Discord at @vinnydapooh1
